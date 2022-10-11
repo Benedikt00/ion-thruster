@@ -1,0 +1,21 @@
+Prioties: 
+
+Testaufbau: 
+	-Hochspannungskaskade: 
+		-Anschaffen der benötigten Bauteile
+		-Anschaffung von Räumlichkeiten inkl. Netzgerät/variabler Trafo, Lötkolben, Werkzeug, Platine... 
+		-Testung der Kaskade 
+		-Wichtig: Auch bei niedriger Spannung auf Sicherheit achten
+		-Wiederholung der Testung mit mehr Spannung
+
+
+
+
+
+	-IonThruster:
+		-Einigung auf ein System
+		-Erstellen eines 3D-Modeles mit akkuraten Masen.
+		-Lasern der zu lasernden Teile
+		-Anschaffung der Kabel/Drähte
+		-Zusammenbauen der Einzelteile ikl. Verdraten. (Hoffentlich ohne Plastikschweißen)
+		-
